@@ -17,6 +17,7 @@
 </p>
 
 <br>
+## Author of this document: ANDREAS KRETZ
 ## Source of this document: https://github.com/andkret/Cookbook
 
 ## If You Like This Book & Need More Help
